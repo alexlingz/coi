@@ -1,3 +1,11 @@
+co_tracker/
+grasping/
+hand_object_detector/
+keypoint/
+moka/
+segmentanything2/
+vfc_pybind/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
