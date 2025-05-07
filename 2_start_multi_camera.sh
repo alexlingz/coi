@@ -1,0 +1,1 @@
+roslaunch realsense2_camera my_rs_multiple_devices.launch align_depth:=true
